@@ -23,11 +23,10 @@ When you start the application, you'll be presented with the main menu:
 
 
 ------------------------------
-'Main Menu'
-'1 --> Login' 
-'2 --> Register' 
-
-'0 --> Exit'
+*Main Menu
+ 1 --> Login 
+ 2 --> Register 
+ 0 --> Exit*
 
 
 
@@ -50,16 +49,15 @@ Main Menu (After Login)
 
 After logging in, you'll see:
 
-'
 
-Main Menu: 
+
+*Main Menu: 
 1 --> Add/Create a Password storage (1 item at a time) 
 2 --> Goto my storage 
 3 --> Delete my storage 
+0 --> Log out and goto Startscreen*
 
-0 --> Log out and goto Startscreen
 
-'
 
     Add/Create a Password Storage: Create a new storage item.
     Goto My Storage: Manage your existing storage items.
@@ -71,15 +69,14 @@ Storage Menu
 When managing storage:
 
 
-'
+
 ----------------------------------------------
  [User], here are your storage options:
-1 --> Show my storage
-2 --> Edit item
-3 --> Delete Item
+*1 --> Show my storage
+ 2 --> Edit item
+ 3 --> Delete Item
+ 0 --> Goto Main Menu*
 
-0 --> Goto Main Menu
-'
 
     Show My Storage: Display all stored items.
     Edit Item: Edit a specific stored item.
