@@ -21,15 +21,15 @@ Main Menu
 
 When you start the application, you'll be presented with the main menu:
 
-'
+
 ------------------------------
-Main Menu
-1 --> Login 
-2 --> Register 
+'Main Menu'
+'1 --> Login' 
+'2 --> Register' 
 
-0 --> Exit
+'0 --> Exit'
 
-'
+
 
     Login: Log in as an existing user.
     Register: Register a new user.
